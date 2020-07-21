@@ -1,1 +1,1 @@
-element.remove()
+main.remove()
