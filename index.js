@@ -1,1 +1,1 @@
-main.remove()
+main.remove();
