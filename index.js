@@ -1,3 +1,3 @@
 main.remove();
 
-document.
+document.body.appendChild()
